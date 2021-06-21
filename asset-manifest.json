@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/SWD-Week-6-Task/static/css/main.e91866a2.chunk.css",
+    "main.js": "/SWD-Week-6-Task/static/js/main.ad9f2e68.chunk.js",
+    "main.js.map": "/SWD-Week-6-Task/static/js/main.ad9f2e68.chunk.js.map",
+    "runtime-main.js": "/SWD-Week-6-Task/static/js/runtime-main.310d36f7.js",
+    "runtime-main.js.map": "/SWD-Week-6-Task/static/js/runtime-main.310d36f7.js.map",
+    "static/js/2.08552f13.chunk.js": "/SWD-Week-6-Task/static/js/2.08552f13.chunk.js",
+    "static/js/2.08552f13.chunk.js.map": "/SWD-Week-6-Task/static/js/2.08552f13.chunk.js.map",
+    "index.html": "/SWD-Week-6-Task/index.html",
+    "static/css/main.e91866a2.chunk.css.map": "/SWD-Week-6-Task/static/css/main.e91866a2.chunk.css.map",
+    "static/js/2.08552f13.chunk.js.LICENSE.txt": "/SWD-Week-6-Task/static/js/2.08552f13.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.310d36f7.js",
+    "static/js/2.08552f13.chunk.js",
+    "static/css/main.e91866a2.chunk.css",
+    "static/js/main.ad9f2e68.chunk.js"
+  ]
+}
